@@ -22,7 +22,7 @@ This project demonstrates **real-time object detection and tracking** using pre-
 
 🚀 Live Demo
 
-👉 [Try the app on Hugging Face Spaces](https://huggingface.co/spaces/DharavathSri/RealTimeObjectDetectionTrackingApp)
+👉 [Try the app on Hugging Face Spaces] (https://huggingface.co/spaces/DharavathSri/RealTimeObjectDetectionTrackingApp)
 
 Screenshot 📸 👇👇:
 ![{E0D6738E-AF9F-4658-86E1-5A74C95904A1}](https://github.com/user-attachments/assets/f2f26383-5dc4-47a4-af56-61814b9e192b)
